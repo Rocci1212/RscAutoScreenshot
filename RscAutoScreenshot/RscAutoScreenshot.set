@@ -1,0 +1,5 @@
+RSC Auto Screenshot plugin
+1|Enable Plugin##838|autoscreenshot_enabled
+4|Delay (how long to delay screenshot after game ends in s)##838|screenshot_delay|0|30
+8|
+9|Made by Rocci
