@@ -1,5 +1,9 @@
 RSC Auto Screenshot plugin
 1|Enable Plugin##838|autoscreenshot_enabled
 4|Delay (how long to delay screenshot after game ends in s)##838|screenshot_delay|0|30
+6|Screenshot Button##838|screenshot_button|F12@0&Prt Sc@1
 8|
+9|Join RSC, the best Rocket League league around!
+9|NA: https://discord.gg/rsc
+9|Europe: https://discord.gg/UpagPMj
 9|Made by Rocci

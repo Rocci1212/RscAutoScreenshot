@@ -7,6 +7,7 @@ class RscAutoScreenshot : public BakkesMod::Plugin::BakkesModPlugin
 private:
 	bool isEnabled;
 	int screenshotDelay;
+	int screenshotButton;
 
 public:
 	virtual void onLoad();
