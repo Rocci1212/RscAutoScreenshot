@@ -6,11 +6,13 @@ class RscAutoScreenshot : public BakkesMod::Plugin::BakkesModPlugin
 {
 private:
 	bool isEnabled;
+	bool isEnabledForMatchNight;
 	int screenshotDelay;
 	int screenshotButton;
 
 public:
 	virtual void onLoad();
+	bool isRSCMatchTime();
 	virtual void onUnload();
 
 	void StatsScreen(std::string eventName);

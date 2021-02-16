@@ -1,10 +1,13 @@
 RSC Auto Screenshot plugin
 1|Enable Plugin##838|autoscreenshot_enabled
+1|Enable Plugin On Match Nights (Monday and Wednesday, 10-11PM EST)##838|autoscreenshot_enabled_for_match_night
 4|Delay (how long to delay screenshot after game ends in s)##838|screenshot_delay|0|30
 6|Screenshot Button##838|screenshot_button|F12@0&F9@1&Game Bar@2&Prt Sc@3
 8|
 9|In Steam, screenshots are typically located here: 
 9|C:\Program Files (x86)\Steam\userdata\37289349\760\remote\252950\screenshots
+9|
+9|Enabling both "Enable Plugin" and "Enable Plugin On Match Nights" will result in always taking screenshots
 8|
 9|Join RSC, the best Rocket League league around!
 9|NA: https://discord.gg/rsc
