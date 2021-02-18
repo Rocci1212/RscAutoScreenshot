@@ -1,6 +1,5 @@
 RSC Auto Screenshot plugin
-1|Enable Plugin##838|autoscreenshot_enabled
-1|Enable Plugin On Match Nights (Monday and Wednesday, 10-11PM EST)##838|autoscreenshot_enabled_for_match_night
+6!Screenshot Timing##838|autoscreenshot_enabled|Never@0&Always@1&3s Match Nights (M/W 10-11)@2&3s and 1s Match Nights (M/W/Th 10-11)@3&1s Match Nights (Th 10-11)@4
 4|Delay (how long to delay screenshot after game ends in s)##838|screenshot_delay|0|30
 6|Screenshot Button##838|screenshot_button|F12@0&F9@1&Game Bar@2&Prt Sc@3
 8|
