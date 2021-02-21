@@ -9,6 +9,7 @@ private:
 	bool isEnabledForMatchNight;
 	int screenshotDelay;
 	int screenshotButton;
+	bool isDaylightSavings();
 
 public:
 	virtual void onLoad();
