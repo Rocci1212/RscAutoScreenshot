@@ -1,14 +1,17 @@
 RSC Auto Screenshot plugin
-6!Screenshot Timing##838|autoscreenshot_enabled|Never@0&Always@1&3s Match Nights (M/W 10-11)@2&3s and 1s Match Nights (M/W/Th 10-11)@3&1s Match Nights (Th 10-11)@4
+6|Screenshot Timing##838|autoscreenshot_enabled|Never@0&Always@1&3s Match Nights (M/W 10-11)@2&3s and 1s Match Nights (M/W/Th 10-11)@3&1s Match Nights (Th 10-11)@4
 4|Delay (how long to delay screenshot after game ends in s)##838|screenshot_delay|0|30
 6|Screenshot Button##838|screenshot_button|F12@0&F9@1&Game Bar@2&Prt Sc@3
 8|
-9|In Steam, screenshots are typically located here: 
+9|F12 is the default Steam screenshot button, screenshots are typically located here: 
 9|C:\Program Files (x86)\Steam\userdata\37289349\760\remote\252950\screenshots
 9|
-9|Enabling both "Enable Plugin" and "Enable Plugin On Match Nights" will result in always taking screenshots
+9|F9 is the default screenshot button for GYG.
+9|To access them from the GYG app for upload, click ... under the screenshot,
+9|then click Show In Local Library (typically in GYG folder in the user's default Pictures folder)
 8|
 9|Join RSC, the best Rocket League league around!
 9|NA: https://discord.gg/rsc
 9|Europe: https://discord.gg/snwVs37vzW
+9|1v1 League: https://discord.gg/rPvakUpsQh
 9|Made by Rocci
