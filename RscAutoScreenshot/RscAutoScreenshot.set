@@ -1,5 +1,5 @@
 RSC Auto Screenshot plugin
-6|Screenshot Timing##838|autoscreenshot_enabled|Never@0&Always@1&3s Match Nights (M/W 10-11)@2&3s and 1s Match Nights (M/W/Th 10-11)@3&1s Match Nights (Th 10-11)@4
+6|Screenshot Timing##838|autoscreenshot_enabled|Never@0&Always@1&Standard Match Nights (M/W 10-11)@2&Doubles Match Nights (Tu 9:30-11)@3&Solo Match Nights (Th 10-11)@4&Standard and Doubles Match Nights@5&Standard and Solo Match Nights@6&Doubles and Solo Match Nights@7&All Match Nights@8
 4|Delay (how long to delay screenshot after game ends in s)##838|screenshot_delay|0|30
 6|Screenshot Button##838|screenshot_button|F12@0&F9@1&Game Bar@2&Prt Sc@3
 8|
@@ -12,6 +12,7 @@ RSC Auto Screenshot plugin
 8|
 9|Join RSC, the best Rocket League league around!
 9|NA: https://discord.gg/rsc
-9|Europe: https://discord.gg/snwVs37vzW
-9|1v1 League: https://discord.gg/rPvakUpsQh
+9|Europe: https://discord.gg/Bw4rvpG
+9|2v2 League: https://discord.gg/se6NwxKjpZ
+9|1v1 League: https://discord.gg/fsHUBmA
 9|Made by Rocci
